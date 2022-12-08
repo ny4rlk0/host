@@ -1,0 +1,77 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+#Mozilla FireFox
+0.0.0.0 incoming.telemetry.mozilla.org
+0.0.0.0 contile.services.mozilla.com
+
+#Microsoft
+0.0.0.0 checkappexec.microsoft.com
+0.0.0.0 smartscreen-prod.microsoft.com
+0.0.0.0 epdg.epc.mnc003.mcc286.pub.3gppnetwork.org
+0.0.0.0 mp.microsoft.com
+0.0.0.0 crl.microsoft.com
+0.0.0.0 wdcp.microsoft.
+0.0.0.0 wdcp.microsoft.com
+0.0.0.0 smartscreen.microsoft.com
+0.0.0.0 data.microsoft.com
+0.0.0.0 data.msn.com
+0.0.0.0 wdcpalt.microsoft.com
+0.0.0.0 answers.microsoft.com
+0.0.0.0 apps.skype.com
+0.0.0.0 az361816.vo.msecnd.net
+0.0.0.0 az512334.vo.msecnd.net
+0.0.0.0 cdn.content.prod.cms.msn.com
+0.0.0.0 choice.microsoft.com
+0.0.0.0 choice.microsoft.com.nsatc.net
+0.0.0.0 client.wns.windows.com
+0.0.0.0 client-s.gateway.messenger.live.com
+0.0.0.0 clientconfig.passport.net
+0.0.0.0 deploy.static.akamaitechnologies.com
+0.0.0.0 device.auth.xboxlive.com
+0.0.0.0 dmd.metaservices.microsoft.com
+0.0.0.0 dns.msftncsi.com
+0.0.0.0 feedback.microsoft-hohm.com
+0.0.0.0 feedback.search.microsoft.com
+0.0.0.0 feedback.windows.com
+0.0.0.0 g.live.com
+0.0.0.0 img-s-msn-com.akamaized.net
+0.0.0.0 licensing.mp.microsoft.com
+0.0.0.0 login.live.com
+0.0.0.0 m.hotmail.com
+0.0.0.0 msftncsi.com
+0.0.0.0 officeclient.microsoft.com
+0.0.0.0 oneclient.sfx.ms
+0.0.0.0 pricelist.skype.com
+0.0.0.0 s.gateway.messenger.live.com
+0.0.0.0 s0.2mdn.net
+0.0.0.0 sO.2mdn.net
+0.0.0.0 search.msn.com
+0.0.0.0 settings-ssl.xboxlive.com
+0.0.0.0 static.2mdn.net
+0.0.0.0 store-images.s-microsoft.com
+0.0.0.0 storeedgefd.dsx.mp.microsoft.com
+0.0.0.0 tile-service.weather.microsoft.com
+0.0.0.0 time.windows.com
+0.0.0.0 tk2.plt.msn.com
+0.0.0.0 ui.skype.com
+0.0.0.0 www.msftncsi.com
